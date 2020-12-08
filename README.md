@@ -2,3 +2,7 @@
 
 # yesapi-python-sdk
 小白接口（YesApi.cn）Python SDK包
+
+两个版本的SDK，可以根据开发的偏爱选择：  
+ + yesapi_sdk.py  
+ + yesapi_sdk_another.py  
